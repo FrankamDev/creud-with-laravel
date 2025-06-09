@@ -1,4 +1,4 @@
-@extends('layouts.website.footer-website')
+@extends('layouts.website.layout-website')
 @section('content')
 <div class="container mx-auto">
     <div class="flex justify-between items-center bg-gray-200 p-5 rounded-md mb-6">
