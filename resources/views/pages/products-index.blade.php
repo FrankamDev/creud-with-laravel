@@ -3,7 +3,7 @@
 <div class="container mx-auto">
     <div class="flex justify-between items-center bg-gray-200 p-5 rounded-md mb-6">
         <div>
-            <h1 class="text-xl font-semibold">Products (total)</h1>
+            <h1 class="text-xl font-semibold">Products ({{ $totalProducts }})</h1>
         </div>
         <div>
             <a href="#" class="px-5 py-2 bg-blue-500 rounded-md text-white text-lg shadow-md">Add New</a>
